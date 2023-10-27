@@ -119,8 +119,8 @@ border: 1px solid #86d4f5;
 @media screen and (max-width: 1920px) {
 .schedule-table {
 display: flex;
-width: 110%;
-overflow-x: auto;
+width: 100%;
+
 }
 .schedule-table table thead th {
 padding: 25px 40px;
